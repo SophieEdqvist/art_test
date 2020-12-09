@@ -19,8 +19,7 @@
           </e>
         </e>
         <e p="Shaders" t="Include">
-          <e p="MainLight.hlsl.shader" t="Include" />
-          <e p="MainLight.hlsl.txt" t="Include" />
+          <e p="ToonShader.shader" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />

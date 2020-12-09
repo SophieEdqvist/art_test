@@ -15,6 +15,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Shaders/Lightinginfo.cs" />
         <option value="$PROJECT_DIR$/Assets/Shaders/MainLight.hlsl.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/ToonShader.shader" />
       </list>
     </option>
   </component>
@@ -58,6 +59,7 @@
       <updated>1607515197841</updated>
       <workItem from="1607515202747" duration="64000" />
       <workItem from="1607515763491" duration="17000" />
+      <workItem from="1607516575893" duration="612000" />
     </task>
     <servers />
   </component>
