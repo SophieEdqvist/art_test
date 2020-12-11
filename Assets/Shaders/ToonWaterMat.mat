@@ -20,10 +20,12 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
+    - Vector1_182682A5: 0.1
     - Vector1_1DC24826: 7
     - Vector1_25351CAC: 1
-    - Vector1_D2A14CC3: 5
+    - Vector1_B9EC2B42: 1
+    - Vector1_D2A14CC3: 6.33
     m_Colors:
-    - Color_8CAE5EED: {r: 0.9406409, g: 1.869539, b: 1.974415, a: 0}
-    - Color_E3C3BB3B: {r: 0.03244036, g: 0.6481478, b: 0.764151, a: 0}
+    - Color_8CAE5EED: {r: 0.9374736, g: 1.7051884, b: 1.79049, a: 0}
+    - Color_E3C3BB3B: {r: 0, g: 0.7575315, b: 0.9056604, a: 0}
   m_BuildTextureStacks: []
